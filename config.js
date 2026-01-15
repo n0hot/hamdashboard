@@ -16,6 +16,7 @@ var aURL = [
   ["f3de21ff", "satellite.js"],
   ["2196F3", "TIME.IS", "https://time.is/", "1"],
   ["2196F3", "APRS", "iframe|https://aprs.fi/#!lat=43.7947&lng=-91.5582", "1"],
+  ["2196F3", "AQI", "https://gispub.epa.gov/airnow/?contours=ozonepm&monitors=ozonepm&basemap=imagery&xmin=-19369175.65103267&xmax=-1758084.3341327459&ymin=545027.7336073034&ymax=8636345.79976077&tab=loops&showgreencontours=false", "1", "R"],
   ["2196F3", "Bands", "https://www.arrl.org/files/file/Regulatory/Band%20Chart/Hambands4_Color_11x8_5.pdf", "1"]
   ["2196F3", "Club Log", "https://clublog.org/livestream/N0HOT", "1.3"],
   ["2196F3", "CONTEST", "https://www.contestcalendar.com/fivewkcal.html", "1"],
