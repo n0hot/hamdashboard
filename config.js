@@ -46,7 +46,7 @@ var aIMG = [
   ["CAN", "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/can/EXTENT3/GOES16-CAN-EXTENT3-1125x560.gif"],
   ["UMV", "https://cdn.star.nesdis.noaa.gov/GOES19/GLM/SECTOR/umv/EXTENT3/GOES19-UMV-EXTENT3-600x600.gif"],
   ["MUF", "iframe|https://muf.hb9vqq.ch/"],
-  ["HF Prop EN43", "iframe|https://dxlook.com/?filter=grid&grid=EN43"],
+  ["Electrons", "https://tec.hb9vqq.ch"],
   ["LIGHTNING", "https://images.lightningmaps.org/blitzortung/america/index.php?animation=usa"],
   ["Weather Local", "https://zoom.earth/maps/satellite-hd/#view=43.77,-91.584,6z/date=2026-01-11,pm"],
   ["", "https://services.swpc.noaa.gov/experimental/images/aurora_dashboard/tonights_static_viewline_forecast.png"],
