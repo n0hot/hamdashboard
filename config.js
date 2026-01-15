@@ -27,6 +27,7 @@ var aURL = [
   ["2196F3", "ADSB", "https://globe.adsbexchange.com", "1", "R"],
   ["2196F3", "Deep Space", "https://eyes.nasa.gov/apps/dsn-now/dsn.html", "1","R"],
   ["2196F3", "LIGHTNING", "https://map.blitzortung.org/#10.91/43.7763/-91.5206", "1", "R"],
+  ["2196F3", "Ham Sonde", "https://amateur.sondehub.org/#!mt=Mapnik&mz=5&qm=12h&mc=43.77017,-91.58347", "1", "R"],
   ["2196F3", "MUF", "https://muf.hb9vqq.ch/", "1", "R"],
   ["2196F3", "Aurora Map", "https://www.northernlightsmap.com/#map-section", "1", "R"],
   ["2196F3", "WEATHER", "https://www.ventusky.com/#p=43.55;-91.71;7", "1", "R"],
