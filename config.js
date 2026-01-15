@@ -15,9 +15,9 @@ var aURL = [
 //  
   ["f3de21ff", "satellite.js"],
   ["2196F3", "TIME.IS", "https://time.is/", "1"],
-  ["2196F3", "APRS", "iframe|https://aprs.fi/#!lat=43.7947&lng=-91.5582"],
+  ["2196F3", "APRS", "iframe|https://aprs.fi/#!lat=43.7947&lng=-91.5582", "1"],
   ["2196F3", "Bands", "https://www.arrl.org/files/file/Regulatory/Band%20Chart/Hambands4_Color_11x8_5.pdf", "1"]
-  ["2196F3", "Club Log", "https://clublog.org/livestream/N0HOT", "1.5"],
+  ["2196F3", "Club Log", "https://clublog.org/livestream/N0HOT", "1.3"],
   ["2196F3", "CONTEST", "https://www.contestcalendar.com/fivewkcal.html", "1"],
   ["2196F3", "Int Cluster", "https://holycluster.iarc.org/", "1"],
   ["2196F3", "DX CLUSTER", "https://dxcluster.ha8tks.hu/map/", "1"],
@@ -26,7 +26,7 @@ var aURL = [
 //  RIGHT SIDE
 //  
   ["2196F3", "ADSB", "https://globe.adsbexchange.com", "1", "R"],
-  ["2196F3", "Deep Space", "https://eyes.nasa.gov/apps/dsn-now/dsn.html", "1","R"],
+  ["2196F3", "Deep Space", "https://eyes.nasa.gov/apps/dsn-now/dsn.html", "1", "R"],
   ["2196F3", "LIGHTNING", "https://map.blitzortung.org/#10.91/43.7763/-91.5206", "1", "R"],
   ["2196F3", "Ham Sonde", "https://amateur.sondehub.org/#!mt=Mapnik&mz=5&qm=12h&mc=43.77017,-91.58347", "1", "R"],
   ["2196F3", "MUF", "https://muf.hb9vqq.ch/", "1", "R"],
