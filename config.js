@@ -15,14 +15,17 @@ var aURL = [
 //  
   ["f3de21ff", "satellite.js"],
   ["2196F3", "TIME.IS", "https://time.is/", "1"],
-  ["2196F3", "CLUBLOG", "https://clublog.org/livestream/N0HOT", "1.5"],
+  ["2196F3", "APRS", "https://aprs.fi/#!lat=43.7947&lng=-91.5582"],
+  ["2196F3", "Club Log", "https://clublog.org/livestream/N0HOT", "1.5"],
   ["2196F3", "CONTEST", "https://www.contestcalendar.com/fivewkcal.html", "1"],
+  ["2196F3", "Int Cluster", "https://holycluster.iarc.org/", "1"],
   ["2196F3", "DX CLUSTER", "https://dxcluster.ha8tks.hu/map/", "1.2"],
   ["2196F3", "POTA", "https://pota.app/embed", "1"],
 //
 //  RIGHT SIDE
 //  
   ["2196F3", "ADSB", "https://globe.adsbexchange.com", "1", "R"],
+  ["2196F3", "Deep Space Net", "https://eyes.nasa.gov/apps/dsn-now/dsn.html", "1"],
   ["2196F3", "LIGHTNING", "https://map.blitzortung.org/#10.91/43.7763/-91.5206", "1", "R"],
   ["2196F3", "MUF", "https://muf.hb9vqq.ch/", "1", "R"],
   ["2196F3", "Aurora Map", "https://www.northernlightsmap.com/#map-section", "1", "R"],
