@@ -16,7 +16,7 @@ var aURL = [
   ["f3de21ff", "satellite.js"],
   ["2196F3", "TIME.IS", "https://time.is/", "1"],
   ["2196F3", "APRS", "iframe|https://aprs.fi/#!lat=43.7947&lng=-91.5582", "1"],
-  ["2196F3", "Bands", "https://www.arrl.org/files/file/Regulatory/Band%20Chart/Hambands4_Color_11x8_5.pdf", "1"]
+  ["2196F3", "Bands", "https://www.arrl.org/files/file/Regulatory/Band%20Chart/Hambands4_Color_11x8_5.pdf", "1"],
   ["2196F3", "Club Log", "https://clublog.org/livestream/N0HOT", "1.3"],
   ["2196F3", "CONTEST", "https://www.contestcalendar.com/fivewkcal.html", "1"],
   ["2196F3", "Int Cluster", "https://holycluster.iarc.org/", "1"],
