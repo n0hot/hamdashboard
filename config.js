@@ -43,9 +43,9 @@ var aIMG = [
   ["LOCAL RADAR", "https://radar.weather.gov/ridge/standard/KARX_loop.gif"],
   ["NOAA D-RAP", "https://services.swpc.noaa.gov/images/animations/d-rap/global/latest.png"],
   ["ISS POSITION", "https://www.heavens-above.com/orbitdisplay.aspx?icon=iss&width=600&height=300&mode=M&satid=25544"],
+  ["CAN", "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/can/EXTENT3/GOES16-CAN-EXTENT3-1125x560.gif"
+  ["UMV", "https://cdn.star.nesdis.noaa.gov/GOES19/GLM/SECTOR/umv/EXTENT3/GOES19-UMV-EXTENT3-600x600.gif"],
   ["MUF", "iframe|https://muf.hb9vqq.ch/"],
-  ["SATELLITE UMV", "https://cdn.star.nesdis.noaa.gov/GOES19/GLM/SECTOR/umv/EXTENT3/GOES19-UMV-EXTENT3-600x600.gif"],
-  ["LIGHTNING", "https://images.lightningmaps.org/blitzortung/america/index.php?animation=usa"],
   ["HF Prop EN43", "iframe|https://dxlook.com/?filter=grid&grid=EN43"],
   ["LIGHTNING", "https://images.lightningmaps.org/blitzortung/america/index.php?animation=usa"],
   ["Weather Local", "https://zoom.earth/maps/satellite-hd/#view=43.77,-91.584,6z/date=2026-01-11,pm"],
