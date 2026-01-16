@@ -19,6 +19,7 @@ var aURL = [
   ["2196F3", "Bands", "https://n0hotstudio.com/hamdashPNGs/", "1"],
   ["2196F3", "Club Log", "https://clublog.org/livestream/N0HOT", "1.3"],
   ["2196F3", "CONTEST", "https://www.contestcalendar.com/fivewkcal.html", "1"],
+  ["2196F3", "Ham DX", "https://dxmap.f5uii.net", "1"],
   ["2196F3", "Ham Sonde", "https://amateur.sondehub.org/#!mt=Mapnik&mz=5&qm=12h&mc=43.77017,-91.58347", "1"],
   ["2196F3", "Int Cluster", "https://holycluster.iarc.org/", "1"],
   ["2196F3", "DX CLUSTER", "https://dxcluster.ha8tks.hu/map/", "1"],
