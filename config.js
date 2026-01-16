@@ -23,6 +23,7 @@ var aURL = [
   ["2196F3", "Int Cluster", "https://holycluster.iarc.org/", "1"],
   ["2196F3", "DX CLUSTER", "https://dxcluster.ha8tks.hu/map/", "1"],
   ["2196F3", "POTA", "https://pota.app/embed", "1"],
+  ["2196F3", "PSK Report", "https://pskreporter.info/pskmap.html?preset&timerange=900&distunit=km&hideunrec=1&blankifnone=1&showtx=1&showgrid=1&showsnr=1&mapCenter=24.42612574674672,-45.88187778597416,1.8879766037125625", "1", "R"],
 //
 //  RIGHT SIDE
 //  
