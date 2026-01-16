@@ -34,7 +34,7 @@ var aURL = [
   ["2196F3", "MUF", "https://muf.hb9vqq.ch/", "1", "R"],
   ["2196F3", "Aurora Map", "https://www.northernlightsmap.com/#map-section", "1", "R"],
   ["2196F3", "WEATHER", "https://www.ventusky.com/#p=43.55;-91.71;7", "1", "R"],
-  ["2196F3", "WINDS", "https://earth.nullschool.net/#current/wind/surface/level/orthographic=-99.98,41.55,922/loc=-91.869,43.672", "1", "R"],
+  ["2196F3", "WIND", "https://earth.nullschool.net/#current/wind/surface/level/orthographic=-99.98,41.55,922/loc=-91.869,43.672", "1", "R"],
 ];
 // Dashboard items
 // Structure is Title, Image Source URL
@@ -52,7 +52,7 @@ var aIMG = [
   ["MUF", "iframe|https://muf.hb9vqq.ch/"],
   ["Electrons", "iframe|https://tec.hb9vqq.ch"],
   ["LIGHTNING", "https://images.lightningmaps.org/blitzortung/america/index.php?animation=usa"],
-  ["Local", "https://zoom.earth/maps/satellite-hd/#view=43.77,-91.584,6z/date=2026-01-11,pm"],
+  ["Wind", "https://earth.nullschool.net/#current/wind/surface/level/orthographic=-99.98,41.55,922/loc=-91.869,43.672"],
   ["", "https://services.swpc.noaa.gov/experimental/images/aurora_dashboard/tonights_static_viewline_forecast.png"],
   ["", "hambands.png"],
 ];
