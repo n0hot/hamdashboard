@@ -54,7 +54,7 @@ var aIMG = [
   ["LIGHTNING", "https://images.lightningmaps.org/blitzortung/america/index.php?animation=usa"],
   ["Local", "https://zoom.earth/maps/satellite-hd/#view=43.77,-91.584,6z/date=2026-01-11,pm"],
   ["", "https://services.swpc.noaa.gov/experimental/images/aurora_dashboard/tonights_static_viewline_forecast.png"],
-  ["", "https://n0hotstudio.com/hamdashPNGs"],
+  ["", "hambands.png"],
 ];
 // Image rotation intervals in milliseconds per tile - If the line below is commented, all tiles will be rotated every 30000 milliseconds (30s)
 var tileDelay = [
