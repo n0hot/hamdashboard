@@ -12,11 +12,10 @@ var layout_rows = 2;
 // add new lines following the structure for extra menu options. The comma at the end is important!
 var aURL = [
   ["f3de21ff", "config.js"],
-  ["2196F3", "LIGHTNING", "https://map.blitzortung.org/#3.87/36.5/-89.41", "1", "R"],
-  ["2196F3", "RADAR", "https://weather.gc.ca/?layers=alert,radar&center=43.39961001,-78.53212031&zoom=6&alertTableFilterProv=ON", "1", "R"],
+  ["2196F3", "LIGHTNING", "https://map.blitzortung.org/#3.87/41.61/-91.24", "1", "R"],
   ["2196F3", "WEATHER", "https://radar.weather.gov/?settings=v1_eyJhZ2VuZGEiOnsiaWQiOiJuYXRpb25hbCIsImNlbnRlciI6Wy05MS4xOTIsNDMuODIzXSwibG9jYXRpb24iOm51bGwsInpvb20iOjcsImxheWVyIjoiYnJlZl9xY2QifSwiYW5pbWF0aW5nIjpmYWxzZSwiYmFzZSI6InN0YW5kYXJkIiwiYXJ0Y2MiOmZhbHNlLCJjb3VudHkiOmZhbHNlLCJjd2EiOmZhbHNlLCJyZmMiOmZhbHNlLCJzdGF0ZSI6dHJ1ZSwibWVudSI6dHJ1ZSwic2hvcnRGdXNlZE9ubHkiOnRydWUsIm9wYWNpdHkiOnsiYWxlcnRzIjowLjgsImxvY2FsIjowLjYsImxvY2FsU3RhdGlvbnMiOjAuOCwibmF0aW9uYWwiOjAuNn19#/", "1", "R"],
   ["2196F3", "WINDS", "https://earth.nullschool.net/#current/wind/surface/level/orthographic=-91.51,43.63,3484/loc=-91.762,43.058", "1", "R"],
-  ["2196F3", "WINDY", "https://embed.windy.com/embed2.html?lat=44.01&lon=-79.45&width=900&detailLat=44.01&detailLon=-79.45&height=600&zoom=8&level=surface&overlay=clouds&product=ecmwf&menu=&message=&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=true&metricWind=km%2Fh&metricTemp=%C2%B0C&radarRange=-1", "1", "R"],
+  ["2196F3", "WINDY", "https://www.windy.com/?43.808,-91.753,5", "1", "R"],
 ];
   
 // Dashboard items
