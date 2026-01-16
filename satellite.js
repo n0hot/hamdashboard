@@ -72,7 +72,7 @@ var aIMG = [
   // 4
   [
     "Satellite Local",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/cgl/EXTENT3/GOES16-CGL-EXTENT3-600x600.gif",
+    "https://cdn.star.nesdis.noaa.gov/GOES19/GLM/SECTOR/umv/EXTENT3/GOES19-UMV-EXTENT3-600x600.gif",
   ],
 ];
 
