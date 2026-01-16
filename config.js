@@ -52,7 +52,7 @@ var aIMG = [
   ["MUF", "iframe|https://muf.hb9vqq.ch/"],
   ["Electrons", "iframe|https://tec.hb9vqq.ch"],
   ["LIGHTNING", "https://images.lightningmaps.org/blitzortung/america/index.php?animation=usa"],
-  ["Wind", "https://earth.nullschool.net/#current/wind/surface/level/orthographic=-99.98,41.55,922/loc=-91.869,43.672"],
+  ["", "https://services.swpc.noaa.gov/images/animations/suvi/primary/195/latest.png"],
   ["", "https://services.swpc.noaa.gov/experimental/images/aurora_dashboard/tonights_static_viewline_forecast.png"],
   ["", "hambands.png"],
 ];
