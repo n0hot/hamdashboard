@@ -52,7 +52,7 @@ var aIMG = [
   ["ISS POSITION", "https://www.heavens-above.com/orbitdisplay.aspx?icon=iss&width=600&height=300&mode=M&satid=25544"],
   ["CAN", "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/can/EXTENT3/GOES16-CAN-EXTENT3-1125x560.gif"],
   ["UMV", "https://cdn.star.nesdis.noaa.gov/GOES19/GLM/SECTOR/umv/EXTENT3/GOES19-UMV-EXTENT3-600x600.gif"],
-  ["MUF", "iframe|https://muf.hb9vqq.ch/"],
+  ["MUF", "https://muf.hb9vqq.ch/"],
   ["Electrons", "iframe|https://tec.hb9vqq.ch"],
   ["LIGHTNING", "https://images.lightningmaps.org/blitzortung/america/index.php?animation=usa"],
   ["", "https://services.swpc.noaa.gov/images/animations/suvi/primary/195/latest.png"],
