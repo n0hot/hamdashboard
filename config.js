@@ -16,9 +16,9 @@ var aURL = [
   ["f3de21ff", "satellite.js"],
   ["2196F3", "TIME.IS", "https://time.is/", "1"],
   ["2196F3", "APRS", "https://aprs.fi/#!lat=43.7947&lng=-91.5582", "1"],
+  ["2196F3", "Bands", "https://n0hotstudio.com/hamdashPNGs/", "1"],
   ["2196F3", "Club Log", "https://clublog.org/livestream/N0HOT", "1.3"],
   ["2196F3", "CONTEST", "https://www.contestcalendar.com/fivewkcal.html", "1"],
-  ["2196F3", "HAM Bands", "https://n0hotstudio.com/hamdashPNGs/", "1"],
   ["2196F3", "Ham Sonde", "https://amateur.sondehub.org/#!mt=Mapnik&mz=5&qm=12h&mc=43.77017,-91.58347", "1"],
   ["2196F3", "Int Cluster", "https://holycluster.iarc.org/", "1"],
   ["2196F3", "DX CLUSTER", "https://dxcluster.ha8tks.hu/map/", "1"],
@@ -54,7 +54,7 @@ var aIMG = [
   ["LIGHTNING", "https://images.lightningmaps.org/blitzortung/america/index.php?animation=usa"],
   ["Local", "https://zoom.earth/maps/satellite-hd/#view=43.77,-91.584,6z/date=2026-01-11,pm"],
   ["", "https://services.swpc.noaa.gov/experimental/images/aurora_dashboard/tonights_static_viewline_forecast.png"],
-  ["HAM Bands", "https://n0hotstudio.com/hamdashPNGs/"],
+  ["", "https://n0hotstudio.com/hamdashPNGs/"],
 ];
 // Image rotation intervals in milliseconds per tile - If the line below is commented, all tiles will be rotated every 30000 milliseconds (30s)
 var tileDelay = [
