@@ -23,7 +23,7 @@ var aURL = [
   ["2196F3", "Ham DX", "https://dxmap.f5uii.net", "1"],
   ["2196F3", "Ham Sonde", "https://amateur.sondehub.org/#!mt=Mapnik&mz=5&qm=12h&mc=43.77017,-91.58347", "1"],
   ["2196F3", "Int Cluster", "https://holycluster.iarc.org/", "1"],
-  ["2196F3", "POTA", "https://pota.app/embed", "1"],
+  ["2196F3", "POTA", "https://pota.app/#/", "1"],
   ["2196F3", "PSK Report", "https://pskreporter.info/pskmap.html?preset&timerange=900&distunit=km&hideunrec=1&blankifnone=1&showtx=1&showgrid=1&showsnr=1&mapCenter=24.42612574674672,-45.88187778597416,1.8879766037125625", "1"],
 //
 //  RIGHT SIDE
