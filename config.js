@@ -37,7 +37,7 @@ var aURL = [
   ["2196F3", "Aurora Map", "https://www.northernlightsmap.com/#map-section", "1", "R"],
   ["2196F3", "WEATHER", "https://www.ventusky.com/#p=43.55;-91.71;7", "1", "R"],
   ["2196F3", "WIND", "https://earth.nullschool.net/#current/wind/surface/level/orthographic=-99.98,41.55,922/loc=-91.869,43.672", "1", "R"],
-  ["2196F3", "Windy", "https://www.windy.com", "1", "R"],
+  ["2196F3", "Windy", "iframe|https://www.windy.com", "1", "R"],
 ];
 // Dashboard items
 // Structure is Title, Image Source URL
