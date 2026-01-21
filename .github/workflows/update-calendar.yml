@@ -1,0 +1,37 @@
+name: Update Monthly Calendar
+
+on:
+  schedule:
+    # Runs at 00:00 UTC on the 1st of every month
+    - cron: '0 0 1 * *'
+  # Allow manual triggering for testing
+  workflow_dispatch:
+
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update current month
+        run: |
+          # Get current month in MM format (01-12)
+          current_month=$(date +%m)
+          month_name=$(date +%B)
+          
+          # Copy the current month's calendar to current_month.png
+          cp "${current_month}.png" current_month.png
+          
+          # Configure git
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          # Add and commit the change
+          git add current_month.png
+          git commit -m "Update current month calendar to ${month_name}"
+          
+          # Push to the repository
+          git push
