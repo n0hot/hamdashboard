@@ -29,13 +29,14 @@ var aURL = [
 //
 //  RIGHT SIDE
 //  
-  ["2196F3", "ADSB", "https://globe.adsbexchange.com", "1", "R"],
+  ["2196F3", "ADSB", "http://192.168.3.26:8080", "1", "R"],
   ["2196F3", "AQI", "https://gispub.epa.gov/airnow/?contours=ozonepm&monitors=ozonepm&basemap=imagery&xmin=-19369175.65103267&xmax=-1758084.3341327459&ymin=545027.7336073034&ymax=8636345.79976077&tab=loops&showgreencontours=false", "1", "R"],
+  ["2196F3", "Aurora Map", "https://www.northernlightsmap.com/#map-section", "1", "R"],
   ["2196F3", "Deep Space", "https://eyes.nasa.gov/apps/dsn-now/dsn.html", "1", "R"],
   ["2196F3", "Electrons", "https://tec.hb9vqq.ch/", "1", "R"],
+  ["2196F3", "Kassy Wx", "https://ambientweather.net/dashboard/30047628d3440c4b4328ecd665a0128b", "1", "R"],
   ["2196F3", "LIGHTNING", "https://map.blitzortung.org/#10.91/43.7763/-91.5206", "1", "R"],
   ["2196F3", "MUF", "https://muf.hb9vqq.ch/", "1", "R"],
-  ["2196F3", "Aurora Map", "https://www.northernlightsmap.com/#map-section", "1", "R"],
   ["2196F3", "WEATHER", "https://www.ventusky.com/#p=43.55;-91.71;7", "1", "R"],
   ["2196F3", "WIND", "https://earth.nullschool.net/#current/wind/surface/level/orthographic=-99.98,41.55,922/loc=-91.869,43.672", "1", "R"],
   ["2196F3", "Windy", "https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=default&metricTemp=default&metricWind=default&zoom=5&overlay=wind&product=ecmwf&level=surface&lat=40.847&lon=-91.582&detailLat=43.769&detailLon=-91.584&detail=true&pressure=true&message=true", "1", "R"],
