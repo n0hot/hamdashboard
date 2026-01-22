@@ -29,7 +29,7 @@ var aURL = [
 //
 //  RIGHT SIDE
 //  
-  ["2196F3", "ADSB", "http://192.168.3.26:8080", "1", "R"],
+  ["2196F3", "ADSB", "https://www.flightaware.com/skyaware/", "1", "R"],
   ["2196F3", "AQI", "https://gispub.epa.gov/airnow/?contours=ozonepm&monitors=ozonepm&basemap=imagery&xmin=-19369175.65103267&xmax=-1758084.3341327459&ymin=545027.7336073034&ymax=8636345.79976077&tab=loops&showgreencontours=false", "1", "R"],
   ["2196F3", "Aurora Map", "https://www.northernlightsmap.com/#map-section", "1", "R"],
   ["2196F3", "Deep Space", "https://eyes.nasa.gov/apps/dsn-now/dsn.html", "1", "R"],
