@@ -29,10 +29,10 @@ var aURL = [
 //
 //  RIGHT SIDE
 //  
-  ["2196F3", "ADSB", "https://www.flightaware.com/live/map", "1", "R"],
   ["2196F3", "AQI", "https://gispub.epa.gov/airnow/?contours=ozonepm&monitors=ozonepm&basemap=imagery&xmin=-19369175.65103267&xmax=-1758084.3341327459&ymin=545027.7336073034&ymax=8636345.79976077&tab=loops&showgreencontours=false", "1", "R"],
   ["2196F3", "Aurora Map", "https://www.northernlightsmap.com/#map-section", "1", "R"],
   ["2196F3", "Deep Space", "https://eyes.nasa.gov/apps/dsn-now/dsn.html", "1", "R"],
+  ["2196F3", "DX Chrono", "https://dxchrono.com", "1", "R"],
   ["2196F3", "Electrons", "https://tec.hb9vqq.ch/", "1", "R"],
   ["2196F3", "Kassy Wx", "https://ambientweather.net/dashboard/30047628d3440c4b4328ecd665a0128b", "1", "R"],
   ["2196F3", "LIGHTNING", "https://map.blitzortung.org/#10.91/43.7763/-91.5206", "1", "R"],
