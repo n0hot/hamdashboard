@@ -13,7 +13,6 @@ var aURL = [
 //
 //  LEFT SIDE
 //  
-  ["f3de21ff", "satellite.js"],
   ["2196F3", "TIME.IS", "https://time.is/", "1"],
   ["2196F3", "APRS", "https://aprs.fi/#!lat=43.7947&lng=-91.5582", "1"],
   ["2196F3", "Bands", "https://n0hotstudio.com/hamdashPNGs/", "1"],
@@ -37,6 +36,8 @@ var aURL = [
   ["2196F3", "Electrons", "https://tec.hb9vqq.ch/", "1", "R"],
   ["2196F3", "Kassy Wx", "https://ambientweather.net/dashboard/30047628d3440c4b4328ecd665a0128b", "1", "R"],
   ["2196F3", "LIGHTNING", "https://map.blitzortung.org/#10.91/43.7763/-91.5206", "1", "R"],
+  ["2196F3", "MESH Map", "https://meshmap.net", "1", "R"],
+  ["2196F3", "MESH Core", "https://meshtastic.liamcottle.net/?lat=43.21518500735673&lng=267.89062500000006&zoom=8", "1", "R"],
   ["2196F3", "MUF", "https://muf.hb9vqq.ch/", "1", "R"],
   ["2196F3", "WEATHER", "https://www.ventusky.com/#p=43.55;-91.71;7", "1", "R"],
   ["2196F3", "WIND", "https://earth.nullschool.net/#current/wind/surface/level/orthographic=-99.98,41.55,922/loc=-91.869,43.672", "1", "R"],
