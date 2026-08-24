@@ -39,7 +39,7 @@ var aURL = [
   ["2196F3", "MESH Map", "https://meshmap.net", "1", "R"],
   ["2196F3", "MESH Core", "https://meshtastic.liamcottle.net/?lat=43.21518500735673&lng=267.89062500000006&zoom=8", "1", "R"],
   ["2196F3", "MUF", "https://muf.hb9vqq.ch/", "1", "R"],
-  ["2196F3", "MUF", "https://hf.dxview.org/perspective/EN43ES", "1", "R"],
+  ["2196F3", "MUF DX", "https://hf.dxview.org/perspective/EN43ES", "1", "R"],
   ["2196F3", "WEATHER", "https://www.ventusky.com/#p=43.55;-91.71;7", "1", "R"],
   ["2196F3", "WIND", "https://earth.nullschool.net/#current/wind/surface/level/orthographic=-99.98,41.55,922/loc=-91.869,43.672", "1", "R"],
   ["2196F3", "Windy", "https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=default&metricTemp=default&metricWind=default&zoom=5&overlay=wind&product=ecmwf&level=surface&lat=40.847&lon=-91.582&detailLat=43.769&detailLon=-91.584&detail=true&pressure=true&message=true", "1", "R"],
