@@ -1,12 +1,6 @@
 const disableSetup = false;
 var topBarCenterText = `N0HOT - EN43es`;
 
-// Meta
-L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-  referrerPolicy: 'strict-origin-when-cross-origin',
-  attribution: '&copy; OpenStreetMap contributors'
-}).addTo(map);
-
 // Grid layout
 var layout_cols = 4;
 var layout_rows = 3;
